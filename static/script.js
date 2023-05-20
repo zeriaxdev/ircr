@@ -1,5 +1,3 @@
-const TENOR_API_KEY = "AIzaSyAjpqG6ASenoeOI04yZiPuM4RqbgkehzUk";
-
 let roomListDiv = document.getElementById("room-list");
 let messagesDiv = document.getElementById("messages");
 let newMessageForm = document.getElementById("new-message");

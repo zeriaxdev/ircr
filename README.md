@@ -28,7 +28,7 @@ We don't encourage contributions because that would imply there's something wort
 
 ## License
 
-IRCR is proudly presented under the **WTFPL** (What The F\*\*\*ing Public License). In other words, do whatever the f**k you want with this dumpster fire of a codebase. We take no responsibility for any damage caused by this project (including mental anguish, loss of hair, or urges to become a goat farmer).
+IRCR is proudly presented under the **WTFPL** (DO WHAT THE F\*\*K YOU WANT TO PUBLIC LICENSE). In other words, do whatever the f**k you want with this dumpster fire of a codebase. We take no responsibility for any damage caused by this project (including mental anguish, loss of hair, or urges to become a goat farmer).
 
 ## Acknowledgments
 
